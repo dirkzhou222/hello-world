@@ -1,3 +1,5 @@
 # hello-world
-First repository of dirk
-you are right,exactly My name is dirk nowitzki.hello dirk, welcome
+#First repository
+you are right, My name is dirk nowitzki.hello dirk, welcome!!!
+#add by dirk 20180130
+hahhah,I am back . welcome~~~
